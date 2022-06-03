@@ -1,0 +1,29 @@
+﻿<Window x:Class="Presentation.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation"
+        mc:Ignorable="d"
+        Title="Kanban Login" Height="250" Width="370">
+    <StackPanel  Background="#FFF7F7F7">
+        <Label Content="Kanban Login" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="22" />
+        <Label Margin="8,0,0,0">Email:</Label>
+        <TextBox Name="Email" Text="{Binding Path=Email, Mode=TwoWay}" Width="330" />
+        <Label Margin="8,0,0,0">Password:</Label>
+        <TextBox Name="Password" Text="{Binding Path=Password, Mode=TwoWay}" Width="330" />
+        <Label></Label>
+        <DockPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button Content="Login" Name="Login" Click="Button_Click_Login"  Width="80" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Width="30"></Label>
+            <Button Content="Register" Name="Register" Click="Button_Click_Register" Width="80" FontSize="16"/>
+        </DockPanel>
+        <Label Height="2"></Label>
+        <Label Name="Message" HorizontalContentAlignment="Center" Foreground="Red" HorizontalAlignment="Center" Height="46" Width="343">
+            <Label.Content>
+                <AccessText TextWrapping="Wrap" Text="{Binding Path=Message, Mode=OneWay}"/>
+            </Label.Content>
+        </Label>
+    </StackPanel>
+
+</Window>

@@ -1,0 +1,58 @@
+﻿<Window x:Class="Presentation.View.Task"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation.View"
+        mc:Ignorable="d"
+        Title="Task" Height="360" Width="370">
+    <Grid Background="#FFF7F7F7">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label Content="{Binding Path=ExistingTitle}" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="22"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Content="Title:" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16"/>
+            <TextBox Name="Title" Text="{Binding Path=Title, Mode=TwoWay}"  Grid.Column="1" Height="40" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center" Width="100"/>
+            <Button Content="Save" Grid.Column="2" Height="40" Width="50" Click="SaveTitle_Click"/>
+            <Label Content="Description:" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Grid.Row="1"/>
+            <TextBox Name="Description" Text="{Binding Path=Description, Mode=TwoWay}"  Grid.Column="1" Grid.Row="1" />
+            <Button Content="Save" Grid.Row="1" Grid.Column="2" Height="40" Width="50" Click="SaveDesc_Click"/>
+            <Label Content="DueDate:" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Grid.Row="2"/>
+            <DatePicker Name="DueDate" SelectedDate="{Binding Path=DueDate, Mode=TwoWay}" Text="{Binding Path=DueDate, Mode=TwoWay}"  Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Button Content="Save" Grid.Row="2" Grid.Column="2" Height="40" Width="50" Click="SaveDate_Click"/>
+            <Label Content="Assignee:" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Grid.Row="3"/>
+            <ComboBox Name="Assignee" ItemsSource="{Binding Path=MemberList, Mode=TwoWay}" Text="{Binding Path=Assignee, Mode=TwoWay}"  Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Center" Width="140"/>
+            <Button Content="Save" Grid.Row="3" Grid.Column="2" Height="40" Width="50" Click="SaveAsignee_Click"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Name="Message" HorizontalContentAlignment="Center" Foreground="Red" HorizontalAlignment="Center" Height="46" Width="343">
+                <Label.Content>
+                    <AccessText TextWrapping="Wrap" Text="{Binding Path=Message, Mode=OneWay}"/>
+                </Label.Content>
+            </Label>
+            <Button Content="Advance Task" Name="AdvanceTask" Width="110" Height="30" FontSize="16" Grid.Row="1" HorizontalAlignment="Left" Click="AdvanceTask_Click" Margin="50,0,0,0"/>
+            <Button Content="Return" Name="Return"  Width="110" Height="30" FontSize="16" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="1" Click="Return_Click" Margin="0,0,50,0"/>
+        </Grid>
+    </Grid>
+</Window>
