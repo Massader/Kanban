@@ -1,0 +1,199 @@
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation_MarkupCompile.cache
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation_MarkupCompile.lref
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\Presentation.exe
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\Presentation.deps.json
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\Presentation.runtimeconfig.json
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\Presentation.runtimeconfig.dev.json
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\Presentation.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\ref\Presentation.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\Presentation.pdb
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.g.resources
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\ref\Presentation.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.pdb
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\log4net.config
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\log4net.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.dll
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.pdb
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CopyComplete
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\LoginWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\LoginWindow.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\BoardView.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\BoardView.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\BoardMenu.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\BoardMenu.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\NewTask.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\NewTask.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\NewColumn.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\NewColumn.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\Task.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\Task.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\JoinBoardWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\JoinBoardWindow.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\ConfirmWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\ConfirmWindow.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\MoveColumn.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\MoveColumn.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\InProgressTasksWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\InProgressTasksWindow.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\LimitColumnWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\RenameColumnWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\LimitColumnWindow.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\RenameColumnWindow.baml
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\FilterWindow.g.cs
+C:\Users\rbirn\OneDrive\Desktop\הנדסת תוכנה\סמסטר ב\מבוא להנדסת תוכנה\Milestone 1\Presentation\obj\Debug\net5.0-windows\View\FilterWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.exe
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\log4net.config
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.deps.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.runtimeconfig.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.runtimeconfig.dev.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\ref\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.pdb
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\log4net.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.pdb
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardMenu.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardView.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\ConfirmWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\FilterWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\InProgressTasksWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\JoinBoardWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LimitColumnWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LoginWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\MoveColumn.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewColumn.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewTask.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\RenameColumnWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\Task.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation_MarkupCompile.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation_MarkupCompile.lref
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardMenu.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardView.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\ConfirmWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\FilterWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\InProgressTasksWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\JoinBoardWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LimitColumnWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LoginWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\MoveColumn.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewColumn.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewTask.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\RenameColumnWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\Task.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.g.resources
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CopyComplete
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\ref\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.pdb
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.deps.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.runtimeconfig.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.runtimeconfig.dev.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.exe
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.exe
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\log4net.config
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.deps.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.runtimeconfig.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.runtimeconfig.dev.json
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\ref\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\Presentation.pdb
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\log4net.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\bin\Debug\net5.0-windows\IntroSE.Kanban.Backend.pdb
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.AssemblyReference.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardMenu.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardView.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\ConfirmWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\FilterWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\InProgressTasksWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\JoinBoardWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LimitColumnWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LoginWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\MoveColumn.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewColumn.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewTask.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\RenameColumnWindow.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\Task.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation_MarkupCompile.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation_MarkupCompile.lref
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardMenu.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\BoardView.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\ConfirmWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\FilterWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\InProgressTasksWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\JoinBoardWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LimitColumnWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\LoginWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\MoveColumn.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewColumn.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\NewTask.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\RenameColumnWindow.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\View\Task.baml
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.g.resources
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\ref\Presentation.dll
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.pdb
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.genruntimeconfig.cache
+C:\Users\Nitzan\Nitzan\Schoolwork\Semester B\Intro to SE\Milestone 3\Presentation\obj\Debug\net5.0-windows\Presentation.csproj.CopyComplete
