@@ -15,7 +15,7 @@
             <Label Margin="8,0,0,0">Description:</Label>
             <TextBox Name="Description" Text="{Binding Path=Description, Mode=TwoWay}" Width="330" Height="60" />
             <Label Margin="8,0,0,0">Due Date:</Label>
-            <DatePicker SelectedDate="{Binding Path=DueDate, Mode=TwoWay}" Name="DueDate" Text="{Binding Path=DueDate, Mode=TwoWay}" Width="330" SelectedDateFormat="Short" />
+            <DatePicker SelectedDate="{Binding Path=DueDate, Mode=TwoWay}" Name="DueDate" Width="330" SelectedDateFormat="Short" />
             
             <Label Height="5"></Label>
             <Button Content="Confirm" Name="Confirm"  Width="80" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Confirm_Click"/>
